@@ -1,0 +1,69 @@
+{
+    "cSpell.words": [
+        "compilercleaner",
+        "contactemail",
+        "CTYPE",
+        "dawg",
+        "divs",
+        "drawio",
+        "dynamiclink",
+        "flickr",
+        "foldl",
+        "foldr",
+        "fpath",
+        "Givi",
+        "homepagenavbar",
+        "ketophotographywebsite",
+        "languagize",
+        "livescript",
+        "lsse",
+        "navbars",
+        "Parens",
+        "pfrd",
+        "pinterest",
+        "pkey",
+        "proto",
+        "reqs",
+        "sarama",
+        "scanl",
+        "scanr",
+        "subpages",
+        "supertrim",
+        "Tsvariani",
+        "Unarray",
+        "Unpromisify",
+        "Unreadonly"
+    ],
+    "editor.tokenColorCustomizations": {
+        "textMateRules": [
+            {
+                "scope": "string.quoted.double.js",
+                "settings": {
+                    "foreground": "#66CC66" // Specify the desired color
+                }
+            },
+            {
+                "scope": "string.quoted.double.html",
+                "settings": {
+                    "foreground": "#66CC66" // Specify the desired color
+                }
+            }
+        ]
+    },
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": true,
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[typescript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[html]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[css]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "compile-hero.disable-compile-files-on-did-save-code": false,
+    "python.formatting.provider": "none"
+}
